@@ -1,2 +1,3 @@
 # EcsOS
 EcsOS - is a distribution based on Arch Linux.
+In development...
